@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/game-of-shields/static/css/main.46cfd664.chunk.css",
+    "main.js": "/game-of-shields/static/js/main.930bb457.chunk.js",
+    "main.js.map": "/game-of-shields/static/js/main.930bb457.chunk.js.map",
+    "runtime~main.js": "/game-of-shields/static/js/runtime~main.62827afe.js",
+    "runtime~main.js.map": "/game-of-shields/static/js/runtime~main.62827afe.js.map",
+    "static/js/2.884c28c3.chunk.js": "/game-of-shields/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/game-of-shields/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/game-of-shields/index.html",
+    "precache-manifest.fe3a5e658ead7fd7cad9e441b2a70e66.js": "/game-of-shields/precache-manifest.fe3a5e658ead7fd7cad9e441b2a70e66.js",
+    "service-worker.js": "/game-of-shields/service-worker.js",
+    "static/css/main.46cfd664.chunk.css.map": "/game-of-shields/static/css/main.46cfd664.chunk.css.map"
+  }
+}
