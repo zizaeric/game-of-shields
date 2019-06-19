@@ -11,4 +11,4 @@ Test your memory with this Game of Shields!
 
 #### Where to play Game of Shields
 Check it out at the link below. Have fun and remember each Shield you tap.
-![Game of Shields](https://zizaeric.github.io/Clicky-Game/). 
+![Game of Shields](https://zizaeric.github.io/game-of-shields/). 
